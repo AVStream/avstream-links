@@ -1,0 +1,10 @@
+version=7
+logo=http://navi-x.googlecode.com/svn/trunk/Playlists/favorites.png
+title=Favorites
+view=list
+#
+type=playlist
+name=LIVE CHANNELS (TEST)
+thumb=http://www.aerialview.tv/images/navilogo.png
+URL=http://www.navixtreme.com/playlist/143648/hammy_40_(all_channels_on_this_page_are_found_freely_on_the_internet_and_therefor_take_no_reposibility_of_any_copyright_enfrigment.plx
+#
