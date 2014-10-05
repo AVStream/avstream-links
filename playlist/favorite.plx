@@ -1,10 +1,6 @@
 title=Favorites
 #
 type=playlist
-name=Navi-X Home
-URL=http://navi-x.googlecode.com/svn/trunk/Playlists/home2.plx
-#
-type=playlist
 name=Live 3pm Games
 thumb=http://www.aerialview.tv/images/navilogo.png
 URL=http://www.navixtreme.com/playlist/134035/uk_turks_sports_tv_channel_playlist.plx
