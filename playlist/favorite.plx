@@ -27,6 +27,6 @@ URL=http://avstream-links.googlecode.com/svn/trunk/playlist/sports.plx
 #
 type=playlist
 name=Game of Thrones
-icon=http://imgstocks.com/wp-content/uploads/2014/01/Description-game-of-thrones-hd-free-wallpaper-desktop-background-in.jpg
+thumb=http://imgstocks.com/wp-content/uploads/2014/01/Description-game-of-thrones-hd-free-wallpaper-desktop-background-in.jpg
 URL=http://www.navixtreme.com/cgi-bin/boseman/Scrapers/ct_freetv?q=getcategories/game_of_thrones%2FGame%20of%20Thrones
 #
