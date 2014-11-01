@@ -13,13 +13,14 @@ thumb=http://www.aerialview.tv/images/thumb_AV.png
 URL=http://www.navixtreme.com/playlist/143886/sports_tv_maltesefalcon.plx
 #
 type=video
-name=BT SPORT 1
-URL=rtmp://31.220.0.196:1935/live playpath=kingbt1 swfUrl=http://www.flashtv.co/ePlayerr.swf token=%ZZri(nKa@#Z timeout=10 pageUrl=http://www.flashtv.co/embed.php?live=kingbt1&vw=620&vh=490
-#
-type=video
 name=Racing UK
 thumb=http://substantialfilms.co.uk/wp-content/uploads/2012/12/racing.uk_.logo_.jpg
 URL=rtmp://95.168.199.245:1935/live playpath=kingracing swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#
+type=video
+name=BT SPORT 1
+thumb=http://www.aerialview.tv/images/thumb_AV.png
+URL=rtmpe://46.246.124.28:1935/live/ playpath=sbt1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
 #
 type=video
 name=SKY SPORTS 1
@@ -30,4 +31,9 @@ type=video
 name=SKY SPORTS NEWS
 thumb=http://www.aerialview.tv/images/thumb_AV.png
 URL=rtmpe://46.246.124.83/live/skysportsnewsfifaembed pageUrl=http://www.dcast.tv/
+#
+type=video
+name=SKY SPORTS 5
+thumb=http://www.aerialview.tv/images/thumb_AV.png
+URL=rtmpe://31.220.0.12/live/skyspooo5 pageUrl=http://www.dcast.tv/loboi/ HarrysStreams
 #
