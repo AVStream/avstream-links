@@ -38,7 +38,7 @@ thumb=http://www.aerialview.tv/images/thumb_AV.png
 URL=rtmpe://31.220.0.12/live/skyspooo5 pageUrl=http://www.dcast.tv/loboi/ HarrysStreams
 #
 type=video
-name=Liverpool V NUFC (let if buffer a couple of times)
+name=Chelsea V QPR (let if buffer a couple of times)
 thumb=http://www.novusnow.ca/wp-content/uploads/2013/01/130_sportsnetpacific.png
 URL=http://rogerslive-i.akamaihd.net/hls/live/202802/event/index.m3u8
 #
