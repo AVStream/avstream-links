@@ -13,16 +13,6 @@ thumb=http://www.aerialview.tv/images/thumb_AV.png
 URL=http://www.navixtreme.com/playlist/143886/sports_tv_maltesefalcon.plx
 #
 type=video
-name=Racing UK
-thumb=http://substantialfilms.co.uk/wp-content/uploads/2012/12/racing.uk_.logo_.jpg
-URL=rtmp://95.168.199.245:1935/live playpath=kingracing swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
-#
-type=video
-name=SKYSPORTS 1 HD (new)
-thumb=http://static1.michael84.co.uk/wp-content/uploads/sky-sports-free.jpg
-URL=rtmpe://31.220.0.204/live playpath=sky1 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/
-#
-type=video
 name=BT SPORT 1
 thumb=http://www.aerialview.tv/images/thumb_AV.png
 URL=rtmpe://46.246.124.28:1935/live/ playpath=sbt1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
@@ -41,4 +31,14 @@ type=video
 name=Live Prem games HD (let if buffer a couple of times)
 thumb=http://www.novusnow.ca/wp-content/uploads/2013/01/130_sportsnetpacific.png
 URL=http://rogerslive-i.akamaihd.net/hls/live/202802/event/index.m3u8
+#
+type=video
+name=Skysports 1
+thumb=http://www.aerialview.tv/images/thumb_AV.png
+URL=rtmp://89.248.172.159:443/liverepeater playpath=11 swfUrl=http://popeoftheplayers.pw/atdedead.swf pageUrl=http://popeoftheplayers.pw/player3.php?id=11&width=640&height=440 token=#atd%#$ZH
+#
+type=video
+name=TSN 2 (EPL 3pm Kick Offs)
+thumb=http://www.aerialview.tv/images/thumb_AV.png
+URL=rtmp://31.220.0.104:1935/live/tsn2x live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 #
