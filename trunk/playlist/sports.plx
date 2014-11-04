@@ -23,11 +23,6 @@ thumb=http://www.aerialview.tv/images/thumb_AV.png
 URL=rtmpe://46.246.124.83/live/skysportsnewsfifaembed pageUrl=http://www.dcast.tv/
 #
 type=video
-name=SKY SPORTS 5
-thumb=http://www.aerialview.tv/images/thumb_AV.png
-URL=rtmpe://31.220.0.12/live/skyspooo5 pageUrl=http://www.dcast.tv/loboi/ HarrysStreams
-#
-type=video
 name=Live Prem games HD (let if buffer a couple of times)
 thumb=http://www.novusnow.ca/wp-content/uploads/2013/01/130_sportsnetpacific.png
 URL=http://rogerslive-i.akamaihd.net/hls/live/202802/event/index.m3u8
@@ -41,4 +36,24 @@ type=video
 name=TSN 2 (EPL 3pm Kick Offs)
 thumb=http://www.aerialview.tv/images/thumb_AV.png
 URL=rtmp://31.220.0.104:1935/live/tsn2x live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#
+type=playlist
+name=BEIN SPORTS FULL HD
+thumb=http://www.wallpaepers.com/wp-content/uploads/2014/05/albanian-flag-wallpaper-6.jpg
+URL=http://pastebin.com/raw.php?i=5ZCnASWr
+#
+type=video
+name=Sky Sports 1 (HQ)
+thumb=http://static1.michael84.co.uk/wp-content/uploads/sky-sports-free.jpg
+URL=rtmp://80.82.70.106:443/liverepeater playpath=11 swfUrl=http://popeoftheplayers.pw/atdedead.swf pageUrl=http://popeoftheplayers.pw/player3.php?id=11&width=600&height=450 token=#atd%#$ZH
+#
+type=video
+name=Sky Sports 5 (HQ)
+thumb=http://static1.michael84.co.uk/wp-content/uploads/sky-sports-free.jpg
+URL=rtmp://89.248.172.159:443/liverepeater playpath=12 swfUrl=http://popeoftheplayers.pw/atdedead.swf pageUrl=http://popeoftheplayers.pw/player3.php?id=12&width=600&height=450 token=#atd%#$ZH
+#
+type=video
+name=BOXNATION
+thumb=http://writecross.files.wordpress.com/2012/05/boxnation.jpg
+URL=rtmpe://46.246.124.28:1935/live/ playpath=sboxn swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=sboxn&vw=854&amp;vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15
 #
