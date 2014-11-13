@@ -50,4 +50,5 @@ URL=rtmpe://46.246.124.28:1935/live/ playpath=sboxn swfUrl=http://www.hdcast.org
 type=video
 name=BT Sports 1
 thumb=http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png
-URL=rtmp://80.82.78.22:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.pw/atdedead.swf live=1
+URL=rtmp://80.82.78.22:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.pw/atdedead.swf live=1 pageUrl=http://popeoftheplayers.pw/player3.php?id=13&width=600&height=450 token=#atd%#$ZH
+#
