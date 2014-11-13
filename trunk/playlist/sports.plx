@@ -28,17 +28,10 @@ thumb=http://www.aerialview.tv/images/thumb_AV.png
 URL=rtmp://31.220.0.104:1935/live/tsn2x live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 #
 type=video
-name=BT SPORT 1
-thumb=http://www.aerialview.tv/images/thumb_AV.png
-URL=rtmpe://46.246.124.28:1935/live/ playpath=sbt1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
-#
-
-type=video
 name=Skysports 1
 thumb=http://www.aerialview.tv/images/thumb_AV.png
 URL=rtmp://89.248.172.159:443/liverepeater playpath=11 swfUrl=http://popeoftheplayers.pw/atdedead.swf pageUrl=http://popeoftheplayers.pw/player3.php?id=11&width=640&height=440 token=#atd%#$ZH
 #
-
 type=video
 name=Sky Sports 1 (HQ)
 thumb=http://static1.michael84.co.uk/wp-content/uploads/sky-sports-free.jpg
@@ -54,3 +47,7 @@ name=BOXNATION
 thumb=http://writecross.files.wordpress.com/2012/05/boxnation.jpg
 URL=rtmpe://46.246.124.28:1935/live/ playpath=sboxn swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=sboxn&vw=854&amp;vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15
 #
+type=video
+name=BT Sports 1
+thumb=http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png
+URL=rtmp://80.82.78.22:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.pw/atdedead.swf live=1
