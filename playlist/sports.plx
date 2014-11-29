@@ -23,11 +23,6 @@ thumb=http://www.novusnow.ca/wp-content/uploads/2013/01/130_sportsnetpacific.png
 URL=http://rogerslive-i.akamaihd.net/hls/live/202802/event/index.m3u8
 #
 type=video
-name=TSN 2 (EPL 3pm Kick Offs)
-thumb=http://www.aerialview.tv/images/thumb_AV.png
-URL=rtmp://31.220.0.104:1935/live/tsn2x live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
-#
-type=video
 name=Skysports 1
 thumb=http://www.aerialview.tv/images/thumb_AV.png
 URL=rtmp://89.248.172.159:443/liverepeater playpath=11 swfUrl=http://popeoftheplayers.pw/atdedead.swf pageUrl=http://popeoftheplayers.pw/player3.php?id=11&width=640&height=440 token=#atd%#$ZH
