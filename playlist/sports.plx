@@ -48,6 +48,11 @@ thumb=http://writecross.files.wordpress.com/2012/05/boxnation.jpg
 URL=rtmpe://46.246.124.28:1935/live/ playpath=sboxn swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=sboxn&vw=854&amp;vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15
 #
 type=video
+name=Box Nation HQ
+thumb=http://upload.wikimedia.org/wikipedia/commons/c/c3/BoxNation_logo.jpg
+URL=rtmpe://46.246.124.28:1935/live/ playpath=sboxn swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=sboxn&vw=854&amp;vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15
+#
+type=video
 name=BT Sports 1
 thumb=http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png
 URL=rtmp://80.82.78.22:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.pw/atdedead.swf live=1 pageUrl=http://popeoftheplayers.pw/player3.php?id=13&width=600&height=450 token=#atd%#$ZH
