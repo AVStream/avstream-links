@@ -3,7 +3,7 @@ logo=http://www.aerialview.tv/images/thumb_AV.png
 title=LIVE SPORTS
 #
 type=playlist
-name=Live 3pm Games
+name=Live Sports Channels
 thumb=http://nbcsportsgrouppressbox.files.wordpress.com/2013/04/comp_bpl_main_logo_rgb.png?w=387
 URL=http://www.navixtreme.com/playlist/134035/uk_turks_sports_tv_channel_playlist.plx
 #
@@ -18,9 +18,9 @@ thumb=http://www.qrcode-monkey.com/uploads/ee76a48357f309451ad4f9fb74f6a9f6.png
 URL=http://www.navixtreme.com/playlist/141673/i_love_sports_kahlon_tv_(updated_06.11.2014)_.plx
 #
 type=video
-name= AVS feature games High Quality (let if buffer a couple of times)
-thumb=http://www.novusnow.ca/wp-content/uploads/2013/01/130_sportsnetpacific.png
-URL=http://rogerslive-i.akamaihd.net/hls/live/202802/event/index.m3u8
+name=AVS Feature Games 
+thumb=http://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/175px-Setanta-logo.jpg
+URL=rtmpe://46.246.124.24:1935/live playpath=ssetanta swfUrl=http://prvservers.com/j/jwplayer.flash.swf pageUrl=http://prvservers.com/ live=1 token=#yw%tt#w@kku
 #
 type=video
 name=Skysports 1
