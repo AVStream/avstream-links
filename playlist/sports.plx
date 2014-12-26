@@ -18,9 +18,9 @@ thumb=http://www.qrcode-monkey.com/uploads/ee76a48357f309451ad4f9fb74f6a9f6.png
 URL=http://www.navixtreme.com/playlist/141673/i_love_sports_kahlon_tv_(updated_06.11.2014)_.plx
 #
 type=video
-name=AVS Feature Games 
-thumb=http://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/175px-Setanta-logo.jpg
-URL=rtmpe://46.246.124.24:1935/live playpath=ssetanta swfUrl=http://prvservers.com/j/jwplayer.flash.swf pageUrl=http://prvservers.com/ live=1 token=#yw%tt#w@kku
+name=Man U V Newc
+thumb=http://www.eutelsattvawards.com/dem/2014/images/ntv.png
+URL=http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-70.m3u8
 #
 type=video
 name=Skysports 1
