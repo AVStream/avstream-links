@@ -86,3 +86,15 @@ name=BT Sport  2
 thumb=http://www.qrcode-monkey.com/uploads/53fef513c9f8c0b4d12705bb43a09270.gif
 URL=rtmpe://46.246.29.160:1935/live/ playpath=sbt2 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=10
 #
+type=video
+name=Paddington (2014)
+thumb=http://i.imgur.com/i5kYY9r.jpg
+URL=http://www.nowvideo.sx/video/eb02bbce2b8bd
+processor=http://www.navixtreme.com/wlfwood/processors/nowvideo.txt
+#
+type=video
+name=The Hobbit: The Battle of the Five Armies (2014)
+thumb=http://i.imgur.com/OuzYLCB.jpg
+URL=http://www.nowvideo.sx/video/56637a088edb6
+processor=http://www.navixtreme.com/wlfwood/processors/nowvideo.txt
+#
