@@ -37,24 +37,17 @@ thumb=http://www.eutelsattvawards.com/dem/2014/images/ntv.png
 URL=http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-70.m3u8
 #
 type=video
-name=BT Sport 1
-thumb=http://www.qrcode-monkey.com/uploads/53fef513c9f8c0b4d12705bb43a09270.gif
-URL=rtmpe://46.246.29.160:1935/live/ playpath=sbt1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=10
+name=Russian Sports
+thumb=http://img4.wikia.nocookie.net/__cb20131130004857/ifunny/images/f/fe/Featured.jpg
+URL=http://goo.gl/mgk6VX
 #
 type=video
-name=BT Sport  2
-thumb=http://www.qrcode-monkey.com/uploads/53fef513c9f8c0b4d12705bb43a09270.gif
-URL=rtmpe://46.246.29.160:1935/live/ playpath=sbt2 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=10
+name=Canada TSN 2 Sports
+thumb=http://www.androidegis.com/wp-content/uploads/2013/07/TSN-Android-App.jpg
+URL=rtmp://31.220.0.195:80/live/ playpath=tsnx2 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 timeout=13  pageUrl=http://www.flashtv.co/ AnisotropicTV
 #
 type=video
-name=Paddington (2014)
-thumb=http://i.imgur.com/i5kYY9r.jpg
-URL=http://www.nowvideo.sx/video/eb02bbce2b8bd
-processor=http://www.navixtreme.com/wlfwood/processors/nowvideo.txt
-#
-type=video
-name=The Hobbit: The Battle of the Five Armies (2014)
-thumb=http://i.imgur.com/OuzYLCB.jpg
-URL=http://www.nowvideo.sx/video/56637a088edb6
-processor=http://www.navixtreme.com/wlfwood/processors/nowvideo.txt
+name=USA FOX Sports 1
+thumb=http://msn.foxsports.com/speed/wp-content/uploads/2013/08/1129922_article_img_xlarge6.jpg
+URL=rtmp://31.220.0.195:80/live/ playpath=foxy1 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 timeout=13 pageUrl=http://www.flashtv.co/ AnisotropicTV
 #
