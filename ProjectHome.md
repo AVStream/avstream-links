@@ -1,0 +1,1 @@
+custom start screen for Navi-x for AVS users.
